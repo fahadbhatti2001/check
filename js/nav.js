@@ -6,7 +6,7 @@ function elementFromHtml(html) {
 
 const mainNav = elementFromHtml(`
     <nav class="py-4 w-full flex justify-center">
-        <img src="/src/Assets/images/logo.png" class="w-16" />
+        <img src="../assets/logo-1d63a908.png" class="w-16" />
     </nav>
 `)
 document.body.appendChild(mainNav)
